@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import mobile from '../assets/mobile.png'
 import presentionchart from '../assets/presentionchart.png'
-import logo from '../assets/logo.png'
+import logo from '../assets/Logo.png'
 export const Header = () => {
   return (
     <header className="py-0 px-2 bg-barra  w-screen max-w-full  flex justify-between">
