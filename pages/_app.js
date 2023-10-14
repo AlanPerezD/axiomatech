@@ -1,4 +1,4 @@
-import '@/styles/globals.css'
+import '../styles/globals.css'
 import { Userpilot } from 'userpilot'
 import React from 'react';
 
