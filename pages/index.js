@@ -1,3 +1,7 @@
+import { Userpilot } from 'userpilot'
+// Initialize Userpilot
+Userpilot.initialize('NX-56a9fbf7');
+
 import { Header } from '../components/Header'
 import { Content } from '../components/Content'
 import { Doscuadrados } from '../components/Doscuadrados'
